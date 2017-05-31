@@ -1,0 +1,69 @@
+---
+title: "Equipo de investigación"
+
+output: html_document
+---
+
+
+
+
+
+
+Centro de Economía y Política Regional:
+
+- Patricio Aroca 
+    + Rol: Investigador Responsable
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: patricio.aroca@uai.cl
+
+
+- Juan Pedro Eberhard
+  Rol: Investigador Asociado
+  Institución: Universidad Adolfo Ibáñez
+  Contacto: juan.eberhard@uai.cl
+
+- Nicolás Garrido
+  Rol: Investigador Asociado
+  Institución: Universidad Diego Portales
+  Contacto: nicolas.garrido@udp.cl
+  
+- Esteban López
+  Rol: Post doctorado
+  Institución: Centro de Economía y Política Regional
+  Contacto: esteban.lopez@uai.cl
+  
+- Rocío Valdebenito
+  Rol: Ayudante de Investigación
+  Institución: Centro de Economía y Política Regional
+  Contacto: rocio.valdebenito@uai.cl
+
+- Felipe Morales
+  Rol: Ayudante de Investigación
+  Institución: Centro de Economía y Política Regional
+  Contacto: f.morales@uai.cl
+  
+
+Institution of Economics Structure Research:
+
+- Anke Mönning
+  Rol: Investigadora Responsable en el Extranjero
+  Institución: GWS mbH (Institution of Economics Structures Research)
+  Contacto: moenning@gws-os.com
+  
+- Marc Ingo Wolter
+  Rol: Investigador Asociado en el Extranjero
+  Institución: GWS mbH (Institution of Economics Structures Research)
+  Contacto: wolter@gws-os.com
+  
+- Annet Großmann
+  Rol: Investigador Asociado en el Extranjero
+  Institución: GWS mbH (Institution of Economics Structures Research)
+  Contacto: grossman@gws-os.com
+  
+- Loreto Bieritz
+  Rol: Investigador Asociado en el Extranjero
+  Institución: GWS mbH (Institution of Economics Structures Research)
+  Contacto: bieritz@gws-os.com
+
+
+

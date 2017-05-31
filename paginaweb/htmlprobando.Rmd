@@ -1,0 +1,42 @@
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <h1>Hola mundo</h1> 
+ <p> cómo estás? </p>
+ 
+ <a href="pagina2.html">Página 2</a>
+<dl>  
+<lh> título de la lista </lh> 
+<dt> Primer tema  
+    <dd> Primer detalle  
+    <dd> Segundo detalle  
+<dt> Segundo tema  
+    <dd> Tercer detalle  
+    <dd> Cuarto detalle 
+</dl>
+
+    
+</body>
+
+     <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
+
+
+</html>
