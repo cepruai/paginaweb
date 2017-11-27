@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nrm(list=ls())\ngetwd()\n---\n---\ntitle: \"Objetivos T?cnicos\"\ndate: \"25 de mayo de 2017\"\noutput: html_document\n---\n\n\n\n\nA trav?s del desarrollo de un modelo que permitir? analizar los alcances de shocks de precios externos en el sector minero, tanto a nivel nacional como espacial, este proyecto busca generar informaci?n relevante para la discusi?n y elaboraci?n de pol?ticas p?blicas, enfocadas especialmente en las evaluaciones de impacto de pol?ticas aplicadas al sector minero.\n\nAdicionalmente, este proyecto busca ayudar a impulsar la generaci?n de publicaciones relacionadas con el sector minero y sus impactos en las diferentes regiones del pa?s en su conjunto.\n\n\n<html>\n<body>\n<a href=\"xxx\"><img src=\"Patricio-Aroca.JPG\"align= top * left * bottom>\n\n</body>\n</html>",
+    "created" : 1508252683972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2286958719",
+    "id" : "21BC2FFF",
+    "lastKnownWriteTime" : 1508170716,
+    "last_content_update" : 1508170716,
+    "path" : "C:/Users/Felipe/Desktop/web_CEPR/paginaweb/paginaweb/resultados.Rmd",
+    "project_path" : "resultados.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

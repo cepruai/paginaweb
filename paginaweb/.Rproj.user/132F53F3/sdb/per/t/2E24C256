@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"BMBF UAI-GWS\"\n---\n\n# Development of Sustainable Mining Strategies in Chile with a Regionalized National Model\n\n\n*Contexto y Relevancia del Proyecto*\n\nLa industria del cobre históricamente ha tenido una gran relevancia en la economía chilena superando durante períodos prolongados el 50% de la participaci?n de las exportaciones nacionales. Por su parte, en t?rminos de valor agregado, donde el cobre tiene baja participaci?n, existe un grado de volatilidad mucho m?s alto.  Mientras el a?o 2003 el cobre representaba un 8% del valor agregado de la econom?a nacional para el a?o 2007 este representaba m?s del 20% del valor agregado nacional.Esta alta volatilidad, seg?n instituciones como el Banco Central, puede explicar de forma importante producto del cambio de precios internacionales.\n\nSi bien la producci?n de cobre en Chile se distribuye en 5 regiones , la producci?n se concentra primordialmente en la Regi?n de Antofagasta y sus dos regiones vecinas. \n\nDesde comienzo de los a?os 90', coincidiendo con el retorno de la democracia, la inversi?n extranjera nacional ha aumentado exponencialmente y con esto tambi?n la producci?n minera. Este fen?meno ha sido fundamental para explicar durante estas d?cadas la generaci?n de empleo y riqueza en nuestro pa?s. \n\nEntre el a?o 2008 y el 2014 se comenz? a experimentar una ca?da significativa en el precio del cobre, junto a un aumento progresivo de los costos en la extracci?n del mismo mineral, fen?meno que puede explicar en parte la ca?da en la generaci?n de riquezas y de empleo, tanto a nivel nacional como nivel regional. \n\nSi bien los evaluadores de pol?ticas p?blicas actualmente, a trav?s de las matrices insumo-producto, pueden medir los efectos de variaciones de la industria minera sobre la econom?a nacional, no se poseen modelos que permitan el estudio de estos efectos a nivel regional. Dada la concentraci?n de esta industria en ciertas regiones del pa?s, esta informaci?n puede ser relevante a la hora de desarrollar pol?ticas que busquen el crecimiento y desarrollo regional.\n\nEntendiendo la necesidad de mejor informaci?n a nivel espacial de los efectos del ciclo del precio del cobre, y permitiendo utilizar este tipo de an?lisis para cualquier sector o producto en espec?fico, equipos de investigaci?n patrocinados por la Universidad Adolfo Ib??ez y la Gesellschaft f?r Wirtschaftliche Strukturforschung mbH, financiados por CONICYT, buscar?n elaborar proyectos que permitan cuantificar impactos del sector minero a nivel regional.\n\n```{r ,fig.width=3,fig.show='hold',echo=FALSE}\nlibrary(png)\nlibrary(grid)\nlibrary(gridExtra)\nimg1 <-  rasterGrob(as.raster(readPNG(\"imagenes/uai_escuela-negocios.png\")), interpolate = FALSE)\nimg2 <-  rasterGrob(as.raster(readPNG(\"imagenes/uai_escuela-negocios.png\")), interpolate = FALSE)\n  grid.arrange(img1,img2,ncol=2)\n  #![](imagenes/uai_escuela-negocios.png)\n```\n\n**UAI** **UDP** **GWS**",
+    "created" : 1508252656726.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3407835710",
+    "id" : "2E24C256",
+    "lastKnownWriteTime" : 1508170716,
+    "last_content_update" : 1508170716,
+    "path" : "C:/Users/Felipe/Desktop/web_CEPR/paginaweb/paginaweb/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

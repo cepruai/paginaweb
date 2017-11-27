@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Equipo de investigaci?n\"\n\noutput: html_document\n---\n\n\n\n\n\n\nCentro de Econom?a y Pol?tica Regional:\n\n- Patricio Aroca \n    + Rol: Investigador Responsable\n    + Instituci?n: Universidad Adolfo Ib??ez\n    + Contacto: patricio.aroca@uai.cl\n\n\n- Juan Pedro Eberhard\n  Rol: Investigador Asociado\n  Instituci?n: Universidad Adolfo Ib??ez\n  Contacto: juan.eberhard@uai.cl\n\n- Nicol?s Garrido\n  Rol: Investigador Asociado\n  Instituci?n: Universidad Diego Portales\n  Contacto: nicolas.garrido@udp.cl\n  \n- Esteban L?pez\n  Rol: Post doctorado\n  Instituci?n: Centro de Econom?a y Pol?tica Regional\n  Contacto: esteban.lopez@uai.cl\n  \n- Roc?o Valdebenito\n  Rol: Ayudante de Investigaci?n\n  Instituci?n: Centro de Econom?a y Pol?tica Regional\n  Contacto: rocio.valdebenito@uai.cl\n\n- Felipe Morales\n  Rol: Ayudante de Investigaci?n\n  Instituci?n: Centro de Econom?a y Pol?tica Regional\n  Contacto: f.morales@uai.cl\n  \n\nInstitution of Economics Structure Research:\n\n- Anke M?nning\n  Rol: Investigadora Responsable en el Extranjero\n  Instituci?n: GWS mbH (Institution of Economics Structures Research)\n  Contacto: moenning@gws-os.com\n  \n- Marc Ingo Wolter\n  Rol: Investigador Asociado en el Extranjero\n  Instituci?n: GWS mbH (Institution of Economics Structures Research)\n  Contacto: wolter@gws-os.com\n  \n- Annet Gro?mann\n  Rol: Investigador Asociado en el Extranjero\n  Instituci?n: GWS mbH (Institution of Economics Structures Research)\n  Contacto: grossman@gws-os.com\n  \n- Loreto Bieritz\n  Rol: Investigador Asociado en el Extranjero\n  Instituci?n: GWS mbH (Institution of Economics Structures Research)\n  Contacto: bieritz@gws-os.com\n\n\n\n",
+    "created" : 1508252635109.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "750385202",
+    "id" : "3C72067C",
+    "lastKnownWriteTime" : 1508170716,
+    "last_content_update" : 1508170716,
+    "path" : "C:/Users/Felipe/Desktop/web_CEPR/paginaweb/paginaweb/equipo.Rmd",
+    "project_path" : "equipo.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

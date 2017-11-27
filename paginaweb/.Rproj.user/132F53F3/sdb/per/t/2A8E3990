@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Nuestro Proyecto\"\nauthor: \"Felipe\"\ndate: \"25 de mayo de 2017\"\noutput: html_document\n---\n\n```\nBMBF corresponde a un proyecto de investigaci?n colaborativa, financiado por CONICYT, que tiene como eje principal de inter?s la generaci?n de informaci?n relevante para la implementaci?n de pol?ticas p?blicas relacionadas al sector minero. Este proyecto se encuentra patrocinado actualmente por la Universidad Adolfo Ib??ez y la Institution of Economics Structures Research, adem?s de tener investigadores asociados a la Universidad Diego Portales.\n\n\nL?neas de Investigaci?n\n\nEste proyecto tiene como eje principar el desarrollar un modelo econom?trico y de insumo producto que permita evaluar los impactos del sector minero en la econom?a regional y nacional, analizando sus din?micas a trav?s de tiempo. \n\n```\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n",
+    "created" : 1508252625768.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "161696725",
+    "id" : "2A8E3990",
+    "lastKnownWriteTime" : 1508170716,
+    "last_content_update" : 1508170716,
+    "path" : "C:/Users/Felipe/Desktop/web_CEPR/paginaweb/paginaweb/quienessomos.Rmd",
+    "project_path" : "quienessomos.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
